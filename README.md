@@ -86,6 +86,7 @@ It leverages **ARIMA, SARIMA, and GARCH models** to analyze and predict financia
 🟢 **Time Series Modeling**: Statsmodels, ARCH, Scipy  
 🟢 **Forecasting**: ARIMA, SARIMA, GARCH  
 
+---
 
 ## **Future Enhancements 🚀**  
 
